@@ -2,7 +2,7 @@
 
 ## About the Team **MyLittlePwnies**
 
-We are an association to raise awareness on cybersecurity at Epitech Nancy.
+We are an association made to raise awareness on cybersecurity at Epitech Nancy.
 
 ## Challenges
 
